@@ -1,0 +1,37 @@
+[
+    {
+        "name":"first Book",
+        "description":"imazing book",
+        "price":100,
+        "rack_number":1,
+        "available":true
+    },
+    {
+        "name":"second Book",
+        "description":"imazing book",
+        "price":200,
+        "rack_number":1,
+        "available":true
+    },
+    {
+        "name":"third Book",
+        "description":"imazing book",
+        "price":100,
+        "rack_number":2,
+        "available":true
+    },
+    {
+        "name":"fourth Book",
+        "description":"imazing book",
+        "price":100,
+        "rack_number":2,
+        "available":true
+    },
+    {
+        "name":"fifth Book",
+        "description":"imazing book",
+        "price":100,
+        "rack_number":2,
+        "available":true
+    }
+]
